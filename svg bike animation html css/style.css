@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+#right-wheel,
+#left-wheel,
+#gear {
+    animation: wheel 2s infinite linear;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+#biker {
+    animation: bike 1.5s ease-in-out infinite alternate;
+    transform-origin: bottom;
+}
+
+@keyframes wheel {
+    from {
+        transform: rotateZ(0deg);
+    }
+
+    to {
+        transform: rotateZ(360deg);
+    }
+}
+
+@keyframes bike {
+    from {
+        transform: rotateX(0deg)
+    }
+
+    to {
+        transform: rotateX(20deg);
+    }
+}
