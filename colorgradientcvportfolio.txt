@@ -1,0 +1,23 @@
+color 
+
+blue gradient
+3E79BD
+4059A7
+location gradient 57.9%
+
+blue purple gradient
+4E4EA1 location 85.07%
+3A61AD
+location gradient 50%
+
+grey
+E3E3E3
+
+light grey
+DFDFE5
+
+dark grey
+333333
+
+darkblue
+102438
