@@ -1440,7 +1440,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 
 .btn.btn-link,
 .navbar .navbar-nav>a.btn.btn-link {
-  color: #888;
+  color: #fff;
 }
 
 .btn.btn-link:hover,
@@ -7948,7 +7948,7 @@ Created using IcoMoon - icomoon.io
 /* Social button style */
 
 .cc-facebook:hover i {
-  color: #3b5998;
+  color: #ffffff;
 }
 
 .cc-twitter:hover i {
@@ -7966,7 +7966,6 @@ Created using IcoMoon - icomoon.io
 /* Credit Style */
 a.credit {
   color: inherit;
-  border-bottom: 1px dashed;
   text-decoration: none;
   cursor: pointer;
 }
