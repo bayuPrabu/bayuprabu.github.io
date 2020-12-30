@@ -1450,7 +1450,11 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .navbar .navbar-nav>a.btn.btn-link:focus,
 .navbar .navbar-nav>a.btn.btn-link:active {
   background-color: transparent;
+<<<<<<< HEAD
   /* color: #979797; */
+=======
+/*   color: #979797; */
+>>>>>>> c487537b652f593e23e92c9ab0c36e75aa0c19f0
   text-decoration: none;
   -webkit-box-shadow: none;
   box-shadow: none;
